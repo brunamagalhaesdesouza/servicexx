@@ -1,0 +1,6 @@
+br\com\brunasouza\servicex\servico\domain\Servico.class
+br\com\brunasouza\servicex\categoria\service\CategoriaService.class
+br\com\brunasouza\servicex\categoria\domain\Categoria.class
+br\com\brunasouza\servicex\categoria\resources\CategoriaResource.class
+br\com\brunasouza\servicex\categoria\repositores\CategoriaRepository.class
+br\com\brunasouza\servicex\ServicexApplication.class
